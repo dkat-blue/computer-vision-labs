@@ -37,7 +37,6 @@ mdurl==0.1.2
 ml-dtypes==0.4.1
 namex==0.0.8
 nbformat==5.10.4
-nbstripout==0.7.1
 nest-asyncio==1.6.0
 numpy==1.26.4
 nvidia-cublas-cu12==12.3.4.1
